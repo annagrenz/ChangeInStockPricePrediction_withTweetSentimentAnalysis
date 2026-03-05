@@ -1,1 +1,2 @@
 # ChangeInStockPricePrediction_withTweetSentimentAnalysis
+This is the Git repository for the DLiP group project. The file FlowerPower_DeepLearning.jpeg contains a poster with a summary of our project. You can find the full code in the FlowerPower.ipynb file, which is a Google Colab notebook containing detailed information and documentation. 
